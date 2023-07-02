@@ -135,7 +135,7 @@ nav .nav_row .nav_items ul li{
 }
 #about_us .About_bg{
     margin-top: 1rem;
-    background-image: url('img/px.png');
+    background-image: url('./img/px.png');
     background-size: cover;
     height: 650px;
     display: flex;
